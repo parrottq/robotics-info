@@ -14,3 +14,4 @@ A collection of resources for robotics
 
 ## Radio Documentation
  * [Futaba](futaba/)
+ * [Spektrum DX6e](spektrum-dx6e/)
